@@ -1,0 +1,13 @@
+.socialMediaIcons ul {
+  margin: 0;
+  padding: 0;
+}
+.socialMediaIcons ul li {
+  list-style: none;
+  display: inline;
+  margin: 0 5px;
+  padding: 0;
+}
+.socialMediaIcons ul li a {
+  color: #565673;
+}
